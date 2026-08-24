@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0409-longest-palindrome](https://github.com/MohamedMagdy945/problem-solving/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0409-longest-palindrome](https://github.com/MohamedMagdy945/problem-solving/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0796-rotate-string) |
 ## Array
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/MohamedMagdy945/problem-solving/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
