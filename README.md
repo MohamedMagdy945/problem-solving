@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/MohamedMagdy945/problem-solving/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/MohamedMagdy945/problem-solving/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0796-rotate-string) |
 ## Array
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/MohamedMagdy945/problem-solving/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohamedMagdy945/https-github.com-MohamedMagdy945-problem-solving-cpp/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/MohamedMagdy945/problem-solving/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
